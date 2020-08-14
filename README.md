@@ -79,4 +79,4 @@ node ./node/index.js
 - 解答を **ご自身の** 公開gitリポジトリにプッシュしてください。(githubでも構いません)
 - **最後まで解けなかった場合も採点対象とします**ので、「フロントとサーバーの通信部分は正しく実装できた」、「FizzBuzzの拡張アルゴリズムは実装できた」などがあれば諦めずに提出してみてください。
 - 以下のリンクにある解答提出フォームに従い、ブラウザに表示したプログラムの出力とgitリポジトリのurlを提出してください。
-(https://forms.gle/YPgik7KbigP2AJ3t6)
+(https://forms.gle/YPgik7KbigP2AJ3t6)# web-codingtest
